@@ -1,1 +1,6 @@
-
+.food{
+  border: 2px solid green;
+  width: 250px;
+  /* height: 50px; */
+  margin: 200px 0 0 370px;
+}
